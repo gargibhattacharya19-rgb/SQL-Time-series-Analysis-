@@ -241,16 +241,6 @@ Calculates a rolling seven-day average to identify long-term sales trends.
 
 # Author
 
-**Your Name**
+Gargi Bhattacharya
 
----
 
-## Future Improvements
-
-- Rolling 30-day average
-- Cumulative monthly sales
-- Quarterly sales trends
-- Year-to-date (YTD) sales
-- Ranking top-performing months
-- Forecasting with SQL and Python
-- Interactive dashboards using Power BI or Tableau
